@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1{
+  color: #61dafb;
+}
+
+h2{
+  color: #61dafb;
+}
+
+.loading {
+  font-size: 16px;
+  text-align: center;
+}
+
+.info-list {
+  font-size: 16px;
+}
+
+.info-table {
+  font-size: 14px; /* Reduzindo o tamanho da fonte da tabela */
+  border-collapse: collapse;
+  width: 40%; /* Definindo uma largura menor para a tabela */
+  margin: 20px auto; /* Centralizando a tabela e adicionando margens */
+}
+
+.info-table th,
+.info-table td {
+  border: 2px solid #61dafb;
+  padding: 8px; /* Ajustando o espaçamento interno da célula */
+  text-align: left;
+}
+
+.info {
+  font-size: 16px;
+  text-align: center;
+}

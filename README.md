@@ -17,7 +17,7 @@
 
 -  Após o comando a cima abrir uma página no browser com o conteúdo. Caso não abrir, acessar este endpoint "http://localhost:3000/" no browser.
 
-![PRINT!](img/home.mp4)
+![PRINT!](img/home.gif)
 
 ## Grupo
 
